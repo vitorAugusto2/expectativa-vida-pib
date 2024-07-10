@@ -1,4 +1,4 @@
-# Sobre o Projeto: Expectativa de vida e PIB
+# Expectativa de vida e PIB
 Este projeto irá investigar se existe uma forte correlação entre a produção económica de um país e a expectativa de vida dos seus cidadãos.
 
 Os objetivos são preparar os dados, seguidos de análise com gráficos, e buscar explicar os resultados do estudo.
